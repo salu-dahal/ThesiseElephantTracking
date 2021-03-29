@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+android:background="@color/hex"
+    tools:context=".Information">
+
+
+
+<ImageView
+    android:layout_width="700dp"
+    android:layout_height="50dp"
+  android:src="@drawable/ic_person_pin_circle_black_24dp"
+
+    >
+
+</ImageView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gender: M"
+        android:textStyle="bold"
+        android:textSize="20sp"
+
+
+        >
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Weight: 400kg"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        >
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Color: Grey"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        >
+
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Size:  5.5 – 6.5 m"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        >
+
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Life span: 48 years"
+        android:textStyle="bold"
+        android:textSize="20sp"
+
+        >
+
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gender: M"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_marginTop="30dp"
+
+        >
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Weight: 446kg"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        >
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Color: Grey Black"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        >
+
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Size:  5.7 – 6.5 m"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        >
+
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Life span: 45 years"
+        android:textStyle="bold"
+        android:textSize="20sp"
+
+        >
+
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gender: F"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+
+        >
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Weight: 576kg"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        >
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Color: Grey"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        >
+
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Size:  5.5 – 6.5 m"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        >
+
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Life span: 50 years"
+        android:textStyle="bold"
+        android:textSize="20sp"
+
+        >
+
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gender: F"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+
+        >
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Weight: 400kg"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        >
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Color: Grey"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        >
+
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Size:  5.9 – 6.8 m"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        >
+
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Life span: 54 years"
+        android:textStyle="bold"
+        android:textSize="20sp"
+
+        >
+
+    </TextView>
+</LinearLayout>
